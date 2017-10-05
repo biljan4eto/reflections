@@ -8,3 +8,5 @@
 	branches are used in your local mashine for specific topic.
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 	If you work in group, then you have all changes to the project at that point locally.
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	Fill the answer
