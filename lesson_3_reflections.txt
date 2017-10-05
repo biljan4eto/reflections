@@ -10,3 +10,5 @@
 	If you work in group, then you have all changes to the project at that point locally.
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	Fill the answer
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	Fill the answer
